@@ -1,4 +1,4 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -13,7 +13,7 @@ body {
     width: 100%;
     padding: 25px;
     text-align: center;
-}
+} */
 
 /* .btn {
     border: 0;
@@ -27,3 +27,7 @@ body {
     color: var(--tg-theme-button-text-color);
     background: var(--tg-theme-button-color);
 } */
+
+.div-button {
+    color: var(--tg-theme-section-bg-color);
+}
